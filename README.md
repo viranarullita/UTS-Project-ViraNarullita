@@ -1,6 +1,6 @@
 # Sistem Manajemen Produk & Pesanan
 
-Proyek ini adalah aplikasi **ASP.NET Core Web API** yang digunakan untuk mengelola **Produk** dan **Pesanan**.  
+Proyek ini adalah RESTful API** yang digunakan untuk mengelola **Produk** dan **Pesanan**.  
 Struktur proyek menggunakan arsitektur terpisah (Controller, Services, Models, Validator) agar mudah dipelihara dan dikembangkan.  
 
 ---
